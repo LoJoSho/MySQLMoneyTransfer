@@ -1,0 +1,8 @@
+name: MySQLEcon
+version: ${project.version}
+main: me.lojosho.mysqlecon.MySQLEcon
+api-version: 1.16
+authors: [ LoJoSho ]
+softdepend:
+  - Vault
+  - EssentialsX
